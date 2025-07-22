@@ -98,7 +98,7 @@ namespace ConsoleApp
 
             string userInput;
 
-            int userReading;
+            int userReading=0;
 
             bool isValidInput = false;
  
