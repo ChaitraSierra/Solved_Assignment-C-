@@ -1,3 +1,4 @@
+// Assignment 1: Student Grades – Arrays, Lists & LINQ
 using System;
 using System.Collections.Generic;
 using System.Linq;
